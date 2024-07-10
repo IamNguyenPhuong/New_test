@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is conflit
+=======
+i am branch1
+>>>>>>> branch1
